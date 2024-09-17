@@ -6,9 +6,9 @@
   "description": "An example project to test dependency analysis tools' support for npm-shrinkwrap.json.",
   "dependencies": {
     "d3": ">=3.5.0 <4.0.0",
-    "hawk": "<3.0.0",
+    "hawk": "7.1.0",
     "boom": ">=2.0.0 <3.0.0",
-    "cryptiles": ">=2.0.0 <3.0.0",
+    "cryptiles": ">=4.1.3",
     "hoek": ">=2.0.0 <3.0.0",
     "sntp": ">=1.0.0 <2.0.0",
     "minimatch": ">=2.0.0 <2.1.0",
